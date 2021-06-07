@@ -5,10 +5,5 @@ permalink: /categories/Algorithm
 author_profile: true
 toc: true
 ---
-{% for category in site.categories %}
-  {% if category[0] == "Algorithm" %}
-    {% for post in category[1] %}
-      {% include archive-single.html type=list %}
-    {% endfor %}
-  {% endif %}  
-{% endfor %}
+{% assign posts = site.categories.Algorithm %}
+{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

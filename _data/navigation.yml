@@ -11,7 +11,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 sidebar-blog:
-  - title: "GitHub Blog"
-    url: "/categories/GitHub Blog"
+  - title: "Blog"
+    url: "/categories/Blog"
   - title: "Algorithm"
     url: "/categories/Algorithm"
