@@ -10,3 +10,8 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+sidebar-blog:
+  - title: "GitHub Blog"
+    url: "/categories/GitHub Blog"
+  - title: "Algorithm"
+    url: "/categories/Algorithm"
