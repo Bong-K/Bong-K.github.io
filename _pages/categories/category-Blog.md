@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "그리디 & 구현"
-permalink: /categories/Algorithm
+title: "GitHub Blog"
+permalink: /categories/Blog
 author_profile: true
 toc: true
 ---
 {% for category in site.categories %}
-  {% if category[0] == "Algorithm" %}
+  {% if category[0] == "Blog" %}
     {% for post in category[1] %}
       {% include archive-single.html type=list %}
     {% endfor %}
