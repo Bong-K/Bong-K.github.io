@@ -13,5 +13,5 @@ main:
 sidebar-blog:
   - title: "Blog"
     url: "/categories/Blog"
-  - title: "Algorithm"
-    url: "/categories/Algorithm"
+  - title: "Greedy"
+    url: "/categories/Greedy"
