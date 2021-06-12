@@ -5,7 +5,7 @@ excerpt: "500원, 100원, 50원, 10원 동전 무제한 존재/거슬러줘야 �
 categories:
   - Greedy
 tags:
-  - [Algorithm, Greedy]]
+  - [Algorithm, Greedy]
 toc: true
 toc_sticky: true
 date: 2021-06-10
