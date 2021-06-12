@@ -3,7 +3,8 @@ title: "그리디 & 구현"
 layout: archive
 permalink: categories/Greedy
 author_profile: true
-sidebar_main: true
+sidebar:
+    nav:"[Greedy]"
 ---
 
 
