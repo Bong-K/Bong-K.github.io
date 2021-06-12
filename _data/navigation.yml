@@ -10,8 +10,8 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-sidebar-blog:
+sidebar-main:
   - title: "Blog"
-    url: "/categories/Blog"
+    url: "/_pages/categories/Blog"
   - title: "Greedy"
-    url: "/categories/Greedy"
+    url: "/_pages/categories/Greedy"
