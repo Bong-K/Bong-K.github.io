@@ -1,10 +1,10 @@
 ---
-title: "그리디 & 구현"
+title: "그리디"
 layout: archive
 permalink: categories/Greedy
 author_profile: true
 sidebar:
-    nav:"[Greedy]"
+    nav: "[Greedy]"
 ---
 
 
