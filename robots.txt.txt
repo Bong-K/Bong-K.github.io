@@ -1,0 +1,3 @@
+ser-agent: *
+Allow: /
+Sitemap: http://bong-k.github.io/sitemap.xml

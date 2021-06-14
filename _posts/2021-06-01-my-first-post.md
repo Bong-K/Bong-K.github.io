@@ -10,6 +10,9 @@ toc: true
 toc_sticky: true
 date: 2021-06-01
 last_modified_at: 2021-06-01
+sitemap :
+changefreq : daily
+priority : 1.0
 ---
 
 첫 게시물 등록
