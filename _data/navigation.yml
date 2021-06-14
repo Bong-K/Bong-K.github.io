@@ -15,3 +15,5 @@ sidebar-main:
     url: "/_pages/categories/Blog"
   - title: "Greedy"
     url: "/_pages/categories/Greedy"
+   - title: "Realization"
+    url: "/_pages/categories/Realization"
