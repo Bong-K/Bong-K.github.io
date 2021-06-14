@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
+
 Sitemap: http://Bong-K.github.io/sitemap.xml
-https://gmlwjd9405.github.io/2017/10/21/include-blog-in-a-NaverSearchEngine.html
