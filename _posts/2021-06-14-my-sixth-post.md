@@ -32,3 +32,32 @@ D : 아래로 한 칸 이동
 
 입력 조건은 공간의 크기를 나타내는 N(1<=N<=100), 여행가 A가 이동할 계획(1<=A<=100)
 출력 조건은 A가 도착할 좌표를 공백으로 나타내면 된다.
+
+입력 예시로
+```
+5
+R R R U D D
+```
+따라서 코드를 작성해보면
+```
+n = int(input()) #정사각형 크기 값 입력받기
+x, y = 1, 1 #초기 좌표값 설정
+routes = input().split()
+
+dx = [0, 0, -1, 1]
+dy = [-1, 1, 0, 0]
+way = ['L', 'R', 'U', 'D'] #L R U D에 따른 이동방향
+
+for route in routes:
+    for i in range(len(way)):
+        if route == way[i]:
+            nx = x + dx[i]
+            ny = y + dy[i]
+        #정사각형의 공간 벗어나는 것 제외
+        if nx > n or ny > n or nx < 1 or ny < 1:
+            continue
+
+        x, y = nx, ny
+
+print(x, y)
+```
