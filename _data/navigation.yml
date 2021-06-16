@@ -17,3 +17,5 @@ sidebar-main:
     url: "/_pages/categories/Greedy"
   - title: "Realization"
     url: "/_pages/categories/Realization"
+  - title: "DFS&BFS"
+    url: "/_pages/categories/DFS&BFS"

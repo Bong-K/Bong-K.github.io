@@ -10,6 +10,9 @@ toc: true
 toc_sticky: true
 date: 2021-06-13
 last_modified_at: 2021-06-13
+sitemap :
+changefreq : daily
+priority : 1.0
 ---
 문제는 N과 K가 주어질 때 N이 1이 될 때까지 1번 혹은 2번의 과정을 수행해야 하는 최소 횟수를 구해라
 

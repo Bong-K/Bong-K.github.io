@@ -10,6 +10,9 @@ toc: true
 toc_sticky: true
 date: 2021-06-10
 last_modified_at: 2021-06-10
+sitemap :
+changefreq : daily
+priority : 1.0
 ---
 주어진 조건으로는 N(2<=N<=1000), M(1<=M<=10000), K(1<=K<=10000)
 배열의 크기 N, 숫자가 더해지는 횟수 M, 최대 연속K번 더하기 가능

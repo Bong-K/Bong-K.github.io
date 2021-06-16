@@ -10,6 +10,9 @@ toc: true
 toc_sticky: true
 date: 2021-06-10
 last_modified_at: 2021-06-10
+sitemap :
+changefreq : daily
+priority : 1.0
 ---
 그리디 문제의 해결법은 '현재 상황에서 지금 당장 좋은 것만 고르는 방법"이며 문제와 같은 상황에서는 '가장 큰 동전 단위' 부터 돈을 거슬러주는 것이다.
 ```
