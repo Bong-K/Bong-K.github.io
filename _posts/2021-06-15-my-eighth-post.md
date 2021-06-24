@@ -13,6 +13,9 @@ last_modified_at: 2021-06-15
 sitemap :
 changefreq : daily
 priority : 1.0
+author_profile: ture
+sidebar:
+  nav: "[Realization]"
 ---
 체스판은 8 X 8의 좌표 평면이다.
 나이트는 특정한 위치에서 다음과 같은 2가지 경우로 이동할 수 있다.

@@ -13,6 +13,9 @@ last_modified_at: 2021-06-16
 sitemap :
 changefreq : daily
 priority : 1.0
+author_profile: ture
+sidebar:
+  nav: "[Realization]"
 ---
 캐릭터가 있는 장소는 1 X 1크기의 정사각형으로 이루어진 N X M 크기의 직사각형으로, 각각의 칸은 육지 또는 바다이다.(캐릭터는 동서남북중 한곳을 본다.)
 맵의 칸은 (A, B)로 나타낼 수 있고, A는 북쪽으로부터 떨어진 칸의 개수, B는 서쪾으로부터 떨어진 칸의 개수이다.

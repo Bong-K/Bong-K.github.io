@@ -13,6 +13,9 @@ last_modified_at: 2021-06-14
 sitemap :
 changefreq : daily
 priority : 1.0
+author_profile: ture
+sidebar:
+  nav: "[Realization]"
 ---
 구현에 대해서 간단하게 정리하자면 "머릿속의 알고리즘을 소스코드로 바꾸는 과정"으로 보면 된다.
 구현은 크게 완전탐색과 시뮬레이션으로 나뉜다. 
