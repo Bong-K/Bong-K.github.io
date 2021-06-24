@@ -10,12 +10,16 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-sidebar-main:
-  - title: "Blog"
-    url: "/_pages/categories/Blog"
-  - title: "Greedy"
-    url: "/_pages/categories/Greedy"
-  - title: "Realization"
-    url: "/_pages/categories/Realization"
-  - title: "DFS&BFS"
-    url: "/_pages/categories/DFS&BFS"
+posts:
+  - title: ALGORITHM
+    children:
+      - title: "Greedy"
+        url: /_pages/categories/Greedy
+      - title: "Realization"
+        url: /_pages/categories/Realization
+      - title: "DFS&BFS"
+        url: /_pages/categories/Dfs&Bfs
+  - title: BLOG
+    children:
+      - title: "Blog"
+        url: /_pages/categories/Blog

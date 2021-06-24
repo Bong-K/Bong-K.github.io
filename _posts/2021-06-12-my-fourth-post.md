@@ -13,6 +13,9 @@ last_modified_at: 2021-06-12
 sitemap :
 changefreq : daily
 priority : 1.0
+author_profile: true
+sidebar:
+  nav: "[Greedy]"
 ---
 게임을 이기는 방법은 여러개의 숫자 카드 중 가장 높은 숫자가 쓰인 카드 한 장을 뽑는 것이다.
 

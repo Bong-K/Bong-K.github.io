@@ -13,7 +13,7 @@ last_modified_at: 2021-06-23
 sitemap :
 changefreq : daily
 priority : 1.0
-author_profile: ture
+author_profile: true
 sidebar:
   nav: "[DFS&BFS]"
 ---
@@ -78,6 +78,7 @@ DFS에 대해서 설명을 해보자면
 3. 2번의 과정을 더 이상 수행할 수 없을 때 까지 반복한다.
 ![image](https://user-images.githubusercontent.com/82932338/123082985-919c0b00-d45a-11eb-8a36-d91072a77907.png)
 이 그림에 대한 코드를 짜보면
+
 ```
 #DFS 메서드 정의
 def dfs(graph, v, visited):

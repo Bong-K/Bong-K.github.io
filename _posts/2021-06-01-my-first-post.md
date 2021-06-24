@@ -13,6 +13,9 @@ last_modified_at: 2021-06-01
 sitemap :
 changefreq : daily
 priority : 1.0
+author_profile: true
+sidebar:
+  nav: "[BLOG]"
 ---
 
 첫 게시물 등록

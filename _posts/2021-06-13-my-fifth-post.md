@@ -13,7 +13,7 @@ last_modified_at: 2021-06-13
 sitemap :
 changefreq : daily
 priority : 1.0
-author_profile: ture
+author_profile: true
 sidebar:
   nav: "[Greedy]"
 ---
