@@ -13,6 +13,9 @@ last_modified_at: 2021-06-22
 sitemap :
 changefreq : daily
 priority : 1.0
+author_profile: true
+sidebar:
+  nav: "[DFS&BFS]"
 ---
 탐색은 "많은 양의 데이터 중에서 원하는 데이터를 찾는 과정"이다.
 DFS와 BFS가 있는데 이를 이해하기 위해서는 재귀함수와 스택과 큐를 알아야 한다.

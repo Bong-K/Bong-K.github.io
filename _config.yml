@@ -281,7 +281,7 @@ defaults:
       share: true
       related: true
       sidebar:
-        nav: "sidebar-sample"
+        nav: "posts"
       show_date: true
 
 # Analytics

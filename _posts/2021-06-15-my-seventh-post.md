@@ -13,6 +13,9 @@ last_modified_at: 2021-06-15
 sitemap :
 changefreq : daily
 priority : 1.0
+author_profile: true
+sidebar:
+  nav: "[Realization]"
 ---
 ```
 정수 N이 입력되면 00시 00분 00초부터 N시 59분 59초까지의 모든 시각 중에서 3이 하나라도 포함되는
